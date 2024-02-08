@@ -1,0 +1,4 @@
+../Core/Src/ccs811.c:21:6:ccs811_init	24	static
+../Core/Src/ccs811.c:53:6:ccs811_start_measurement	48	static
+../Core/Src/ccs811.c:80:10:GetBaseline	16	static
+../Core/Src/ccs811.c:90:6:SetBaseline	24	static

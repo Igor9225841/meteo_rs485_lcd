@@ -1,0 +1,3 @@
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usart.h:1862:26:LL_USART_IsActiveFlag_TXE	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usart.h:2474:22:LL_USART_TransmitData8	16	static
+../Core/Src/uart_usb.c:10:6:UART_TX_Str	24	static

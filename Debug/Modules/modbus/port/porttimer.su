@@ -1,0 +1,5 @@
+../Modules/modbus/port/porttimer.c:41:1:xMBPortTimersInit	16	static
+../Modules/modbus/port/porttimer.c:49:1:vMBPortTimersEnable	8	static
+../Modules/modbus/port/porttimer.c:57:1:vMBPortTimersDisable	8	static
+../Modules/modbus/port/porttimer.c:67:13:prvvTIMERExpiredISR	8	static
+../Modules/modbus/port/porttimer.c:73:6:HAL_TIM_PeriodElapsedCallback	16	static

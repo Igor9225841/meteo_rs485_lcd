@@ -1,0 +1,8 @@
+../Modules/modbus/port/portserial.c:45:1:vMBPortSerialEnable	16	static
+../Modules/modbus/port/portserial.c:77:1:xMBPortSerialInit	16	static
+../Modules/modbus/port/portserial.c:83:1:xMBPortSerialPutByte	16	static
+../Modules/modbus/port/portserial.c:94:1:xMBPortSerialGetByte	16	static
+../Modules/modbus/port/portserial.c:110:13:prvvUARTTxReadyISR	8	static
+../Modules/modbus/port/portserial.c:120:13:prvvUARTRxISR	8	static
+../Modules/modbus/port/portserial.c:127:6:HAL_UART_TxCpltCallback	16	static
+../Modules/modbus/port/portserial.c:137:6:HAL_UART_RxCpltCallback	16	static

@@ -1,0 +1,7 @@
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h:761:22:LL_APB2_GRP1_EnableClock	24	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usart.h:412:22:LL_USART_Enable	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usart.h:1527:22:LL_USART_ConfigAsyncMode	16	static
+../Core/Src/usart.c:31:6:MX_USART1_UART_Init	56	static
+../Core/Src/usart.c:80:6:MX_USART2_UART_Init	8	static
+../Core/Src/usart.c:108:6:HAL_UART_MspInit	40	static
+../Core/Src/usart.c:144:6:HAL_UART_MspDeInit	16	static
